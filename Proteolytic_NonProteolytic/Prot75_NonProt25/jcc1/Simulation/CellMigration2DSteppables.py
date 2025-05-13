@@ -275,3 +275,4 @@ class IdFieldVisualizationSteppable(SteppableBasePy):
             if cell.type == 2:   
 #              print "TargetVolume", cell.targetVolume
                self.scalarCLField[cell]= 0.9
+
