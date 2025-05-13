@@ -40,4 +40,5 @@ steppableRegistry.registerSteppable(ecmDegradationSteppable)
 
 CompuCellSetup.mainLoop(sim,simthread,steppableRegistry)
         
-        
+
+
